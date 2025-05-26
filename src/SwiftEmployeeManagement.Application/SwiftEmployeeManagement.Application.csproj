@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SwiftEmployeeManagement.Domain\SwiftEmployeeManagement.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
